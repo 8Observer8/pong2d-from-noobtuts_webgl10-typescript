@@ -1,0 +1,1 @@
+{"version":3,"file":"Program.js","sourceRoot":"","sources":["../../src/client/Program.ts"],"names":[],"mappings":";;;IAGA;QAAA;QAOA,CAAC;QALiB,YAAI,GAAlB;YAEI,IAAI,KAAK,GAAG,IAAI,eAAK,EAAE,CAAC;YACxB,oBAAU,CAAC,QAAQ,CAAC,UAAU,CAAC,cAAc,EAAE,KAAK,CAAC,CAAC;QAC1D,CAAC;QACL,cAAC;IAAD,CAAC,AAPD,IAOC;IAED,gBAAgB;IAChB,OAAO,CAAC,IAAI,EAAE,CAAC;;AAEf,kBAAkB;AAClB,wCAAwC"}
